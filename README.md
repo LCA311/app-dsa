@@ -24,5 +24,5 @@ Insgesamt ergibt sich folgende Liste an Features:
 
 ## Technisches
 
-Minimale Androidversion: 4.0.3 "*Ice Cream Sandwich*"
+Minimale Androidversion: 4.0.3 "*Ice Cream Sandwich*"<br/>
 Sprachen: Deutsch, Englisch
