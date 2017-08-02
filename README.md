@@ -21,3 +21,8 @@ Insgesamt ergibt sich folgende Liste an Features:
 ### Nice to Haves
 
 + Diverse Weitere Features
+
+## Technisches
+
+Minimale Androidversion: 4.0.3 "*Ice Cream Sandwich*"
+Sprachen: Deutsch, Englisch
