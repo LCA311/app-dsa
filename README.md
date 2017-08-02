@@ -10,5 +10,14 @@ Insgesamt ergibt sich folgende Liste an Features:
 ### Must Haves
 
 + Deutschlandkarte mit Pinnadeln, die die Wohnorte der aktuellen DSA-Mitglieder markieren
++ Wohnort kann angegeben und aktualisiert werden
++ Chatfunktion zum genaueren Planen und Absprechen
+
++ Zugangsdaten für TN 
++ Zugriff nur DSA intern - QR Code?
+
++ 
 
 ### Nice to Haves
+
++ Diverse Weitere Features
